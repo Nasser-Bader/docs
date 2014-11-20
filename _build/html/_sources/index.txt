@@ -10,7 +10,9 @@ This is gonig to be my next project in AUB
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   intro
+   :numbered:
+   :maxdepth: 3
 
 
 
